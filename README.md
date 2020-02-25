@@ -1,6 +1,6 @@
-#ETL: Extract, Transform, Load Project<br/>
+# ETL: Extract, Transform, Load Project<br/>
 <br/>
-##Extract:<br/>
+## Extract:<br/>
 <br/>
 I used 5 different datasets from two public platforms. The first source comes via web scraping of the Official Site of the State of New Jersey. The second source from Data USA a public data repository sponsored by Deloitte. The data in the five files include the following information:<br/>
 •	Cities and city ZIP codes in New Jersey<br/>
@@ -14,7 +14,7 @@ https://nj.gov/nj/gov/direct/njzips.html<br/>
 https://datausa.io/profile/geo/new-jersey#economy <br/>
 (All four data sources can be found the above link)<br/>
 <br/>
-##Transformation:<br/>
+## Transformation:<br/>
 <br/>
 In order to transform the public data and use it in the study I performed the following data transformations:<br/>
   •	Used Beautiful Soup and the Response function to web scrape for every ZIP code and City in New Jersey.<br/>
@@ -26,11 +26,11 @@ In order to transform the public data and use it in the study I performed the fo
     •	Created tables in Postgres to store these transformed data frames, then dumped the data frames into Postgres SQL Database using Sqlalchemy<br/>
 <br/>
 <br/>
-##Load:<br/>
+## Load:<br/>
 <br/>
 The last step was to load these transformed data frames from the Postgres SQL Database into a jupyter notebook using Sqlalchemy. This task was completed to_sql call in Sqlalchemy with Prostgres query string and engine call. I was able to load the transformed data frames into the notebook using SQL as my query language. <br/>
 <br/>
 <br/>
-##Summary<br/>
+## Summary<br/>
 Now the data is cleaned and prepared I can create a series of visualizations to explore New economic data. The data should reflect wages, gender and race wage discrepancies, New Jersey Cities and top paying jobs. 
 
