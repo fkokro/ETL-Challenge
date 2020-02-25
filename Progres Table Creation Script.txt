@@ -1,0 +1,66 @@
+-- Create tables for raw data to be loaded into
+CREATE TABLE Zips (
+	id INT PRIMARY KEY,
+	Cities TEXT,
+	Zip_Codes INT
+);
+
+CREATE TABLE Highest_Paying(
+	id INT PRIMARY KEY,
+	Detailed_Occupation Varchar(255),
+	Year INT,
+	Average_Wage Float,
+	Average_Wage_Appx_MOE Float,
+	Record_Count INT,
+	Geography Varchar(255)
+
+);
+
+CREATE TABLE Median_Household_Income_Race(
+	id INT PRIMARY KEY,
+	Year INT,
+	Household_Income_Race Float,
+	Geography Varchar(255)
+
+);
+CREATE TABLE Wage_by_gender_common_job_female(
+	id INT PRIMARY KEY,
+	Year INT,
+	Household_Income_Race Float,
+	Geography Varchar(255)
+
+);
+
+CREATE TABLE Wage_by_gender_common_job_female(
+	id INT PRIMARY KEY,
+	Gender Varchar(255),
+	Year int,
+	Detailed_Occupation Varchar(255),
+	Total_Population int,
+	Record_Count int,
+	Geography Varchar(255)
+
+);
+
+
+
+CREATE TABLE Wage_by_gender_common_job_male(
+	id INT PRIMARY KEY,
+	Gender Varchar(255),
+	Year int,
+	Detailed_Occupation Varchar(255),
+	Total_Population int,
+	Record_Count int,
+	Geography Varchar(255)
+
+);
+
+CREATE TABLE Wage_Distribution(
+	id INT PRIMARY KEY,
+	Wage_Bin Varchar(255),
+	Year int,
+	Total_Population int,
+	Record_Count int,
+	Geography Varchar(255)
+
+);

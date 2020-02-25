@@ -1,0 +1,876 @@
+,Cities,Zipcode
+0,Absecon,08201
+1,Adelphia,07710
+2,Allaire,07727
+3,Allamuchy,07820
+4,Allendale,07401
+5,Allenhurst,07709
+6,Allenhurst,07711
+7,Allentown,08501
+8,Allenwood,08720
+9,Alloway,08001
+10,Alpha,08865
+11,Alpine,07620
+12,Andover,07821
+13,Annandale,08801
+14,Asbury,08802
+15,Asbury Park,07712
+16,Asbury Park,07713
+17,Atco,08004
+18,Atlantic City,08400
+19,Atlantic City,08401
+20,Atlantic City,08402
+21,Atlantic City,08403
+22,Atlantic City,08404
+23,Atlantic City,08405
+24,Atlantic City,08406
+25,Atlantic City,08411
+26,Atlantic Highlands,07716
+27,Audubon,08106
+28,Augusta,07822
+29,Avalon,08202
+30,Avenel,07001
+31,Avon By the Sea,07717
+32,Baptistown,08803
+33,Barnegat,08005
+34,Barnegat Light,08006
+35,Barrington,08007
+36,Basking Ridge,07920
+37,Basking Ridge,07939
+38,Batsto,08037
+39,Bay Head,08742
+40,Bayonne,07002
+41,Bayville,08721
+42,Beach Haven,08008
+43,Beachwood,08722
+44,Bedminster,07921
+45,Belford,07718
+46,Belle Mead,08502
+47,Belleville,07109
+48,Bellmawr,08031
+49,Belmar,07715
+50,Belmar,07719
+51,Belvidere,07823
+52,Bergenfield,07621
+53,Berkeley Heights,07922
+54,Berlin,08009
+55,Bernardsville,07924
+56,Beverly,08010
+57,Birmingham,08011
+58,Blackwood,08012
+59,Blackwood Terrace,08096
+60,Blairstown,07825
+61,Blawenburg,08504
+62,Bloomfield,07003
+63,Bloomingdale,07403
+64,Bloomsbury,08804
+65,Bogota,07603
+66,Boonton,07005
+67,Bordentown,08505
+68,Bound Brook,08805
+69,Bradley Beach,07720
+70,Branchville,07826
+71,Branchville,07890
+72,Brick,08723
+73,Brick,08724
+74,Bridgeport,08014
+75,Bridgeton,08302
+76,Bridgewater,08807
+77,Brielle,08730
+78,Brigantine,08203
+79,Broadway,08808
+80,Brookside,07926
+81,Browns Mills,08015
+82,Browntown,08857
+83,Budd Lake,07828
+84,Buena,08310
+85,Burlington,08016
+86,Butler,07405
+87,Buttzville,07829
+88,Caldwell,07006
+89,Caldwell,07007
+90,Califon,07830
+91,Camden,08100
+92,Camden,08101
+93,Camden,08102
+94,Camden,08103
+95,Camden,08104
+96,Camden,08105
+97,Camden,08106
+98,Camden,08107
+99,Camden,08108
+100,Camden,08109
+101,Camden,08110
+102,Cape May,08204
+103,Cape May Court House,08210
+104,Cape May Point,08212
+105,Carlstadt,07072
+106,Carney's Point,08069
+107,Carteret,07008
+108,Cedar Brook,08018
+109,Cedar Grove,07009
+110,Cedar Knolls,07927
+111,Cedarville,08311
+112,Changewater,07831
+113,Chatham,07928
+114,Chatsworth,08019
+115,Cherry Hill,08002
+116,Cherry Hill,08003
+117,Cherry Hill,08034
+118,Cherry Hill,08358
+119,Chester,07930
+120,Cinnaminson,08077
+121,Clark,07066
+122,Clarksboro,08020
+123,Clarksburg,08510
+124,Clayton,08312
+125,Clementon,08021
+126,Cliffside Park,07010
+127,Cliffwood,07721
+128,Cliffwood Beach,07735
+129,Clifton,07011
+130,Clifton,07012
+131,Clifton,07013
+132,Clifton,07014
+133,Clifton,07015
+134,Clinton,08809
+135,Closter,07624
+136,Coast Guard Base,08204
+137,Cologne,08213
+138,Colts Neck,07722
+139,Columbia,07832
+140,Columbus,08022
+141,Convent Station,07961
+142,Cookstown,08511
+143,Cranbury,08512
+144,Cranbury,08570
+145,Cranford,07016
+146,Creamridge,08514
+147,Cresskill,07626
+148,Crosswicks,08515
+149,Dayton,08810
+150,Deal,07723
+151,Deepwater,08023
+152,Deerfield Street,08313
+153,Delair,08313
+154,Delanco,08075
+155,Delaware,07833
+156,Delmont,08314
+157,Delran,08075
+158,Demarest,07627
+159,Dennisville,08214
+160,Denville,07834
+161,Deptford,08096
+162,Dividing Creek,08315
+163,Dorchester,08316
+164,Dorothy,08317
+165,Dover,07801
+166,Dover,07802
+167,Dover,07869
+168,Dumont,07628
+169,Dunellen,08812
+170,East Brunswick,08816
+171,East Hanover,07936
+172,East Orange,07017
+173,East Orange,07018
+174,East Orange,07019
+175,East Rutherford,07073
+176,Eatontown,07724
+177,Edgewater,07020
+178,Edgewater Park,08010
+179,Edison,08817
+180,Edison,08818
+181,Edison,08820
+182,Edison,08837
+183,Egg Harbor City,08215
+184,Egg Harbor Township,08234
+185,Elberon,07740
+186,Elizabeth,07200
+187,Elizabeth,07201
+188,Elizabeth,07202
+189,Elizabeth,07203
+190,Elizabeth,07204
+191,Elizabeth,07205
+192,Elizabeth,07206
+193,Elizabeth,07207
+194,Elizabeth,07208
+195,Elizabeth,07215
+196,Elizabeth,07216
+197,Elmer,08318
+198,Elmwood Park,07407
+199,Elwood,08217
+200,Emerson,07630
+201,Englewood,07631
+202,Englewood,07632
+203,Englishtown,07726
+204,Essex Fells,07021
+205,Estell Manor,08319
+206,Ewan,08025
+207,Ewing,08618
+208,Ewing,08628
+209,Ewing,08638
+210,Fair Haven,07704
+211,Fair Lawn,07410
+212,Fairfield,07004
+213,Fairton,08320
+214,Fairview,07022
+215,Fanwood,07023
+216,Far Hills,07931
+217,Farmingdale,07727
+218,Flagtown,08821
+219,Flanders,07836
+220,Flemington,08822
+221,Florence,08518
+222,Florham Park,07932
+223,Folsom,08037
+224,Fords,08863
+225,Forked River,08731
+226,Fort Dix,08640
+227,Fort Hancock,07732
+228,Fort Lee,07024
+229,Fort Monmouth,07703
+230,Fortescue,08321
+231,Franklin,07416
+232,Franklin Lakes,07417
+233,Franklin Park,08823
+234,Franklinville,08322
+235,Freehold,07728
+236,Frenchtown,08825
+237,Galloway,08205
+238,Garfield,07026
+239,Garwood,07027
+240,Gibbsboro,08026
+241,Gibbstown,08027
+242,Gillette,07933
+243,Gladstone,07934
+244,Glassboro,08028
+245,Glasser,07837
+246,Glen Gardner,08826
+247,Glen Ridge,07028
+248,Glendora,08029
+249,Glenwood,07418
+250,Gloucester City,08030
+251,Goshen,08218
+252,Great Meadows,07838
+253,Green Brook,08812
+254,Green Creek,08219
+255,Green Village,07935
+256,Greendell,07839
+257,Greenwich,08323
+258,Grenloch,08032
+259,Greystone Park,07950
+260,Guttenberg,07093
+261,Hackensack,07601
+262,Hackensack,07602
+263,Hackensack,07603
+264,Hackensack,07604
+265,Hackensack,07605
+266,Hackensack,07606
+267,Hackensack,07607
+268,Hackensack,07608
+269,Hackettstown,07840
+270,Haddon Heights,08035
+271,Haddonfield,08033
+272,Hainesport,08036
+273,Haledon-North Haledon,07508
+274,Hamburg,07419
+275,Hamilton,08609
+276,Hamilton,08610
+277,Hamilton,08611
+278,Hamilton,08619
+279,Hamilton,08620
+280,Hamilton,08629
+281,Hamilton,08650
+282,Hamilton,08690
+283,Hamilton,08691
+284,Hammonton,08037
+285,Hampton,08827
+286,Hancocks Bridge,08038
+287,Harrington Park,07640
+288,Harrison,07029
+289,Harrisonville,08039
+290,Harvey Cedars,08008
+291,Hasbrouck Heights,07604
+292,Haskell,07420
+293,Haworth,07641
+294,Hazlet,07730
+295,Heislerville,08324
+296,Helmetta,08828
+297,Hewitt,07421
+298,Hibernia,07842
+299,High Bridge,08829
+300,Highland Lakes,07422
+301,Highland Park,08904
+302,Highlands,07732
+303,Hightstown,08520
+304,Hillsborough,08844
+305,Hillsdale,07642
+306,Hillside,07205
+307,Ho Ho Kus,07423
+308,Hoboken,07030
+309,Holmdel,07733
+310,Holmdel,07777
+311,Hopatcong,07843
+312,Hope,07844
+313,Hopewell,08525
+314,Howell,07731
+315,Hudson Heights,07047
+316,Imlaystown,08526
+317,Industrial Hillside,07205
+318,Ironia,07845
+319,Irvington,07111
+320,Iselin,08830
+321,Island Heights,08732
+322,Jackson,08527
+323,Jamesburg,08831
+324,Jersey City,07097
+325,Jersey City,07300
+326,Jersey City,07302
+327,Jersey City,07303
+328,Jersey City,07304
+329,Jersey City,07305
+330,Jersey City,07306
+331,Jersey City,07307
+332,Jersey City,07308
+333,Jersey City,07309
+334,Jersey City,07310
+335,Jersey City,07311
+336,Jersey City,07399
+337,Jobstown,08041
+338,Johnsonburg,07846
+339,Juliustown,08042
+340,Keansburg,07734
+341,Kearny,07032
+342,Keasbey,08832
+343,Kendall Park,08824
+344,Kenilworth,07033
+345,Kenilworth,07098
+346,Kenvil,07847
+347,Keyport,07735
+348,Kingston,08528
+349,Kinnelon,07405
+350,Kirkwood,08040
+351,Lafayette,07848
+352,Lake Hiawatha,07034
+353,Lake Hopatcong,07849
+354,Lakehurst,08733
+355,Lakehurst,08759
+356,Lakewood,08701
+357,Lambertville,08530
+358,Landing,07850
+359,Landisville,08326
+360,Lanoka Harbor,08734
+361,Laurel Springs,08021
+362,Laurence Harbor,08879
+363,Lavallette,08735
+364,Lawnside,08045
+365,Lawrenceville,08648
+366,Layton,07851
+367,Lebanon,08833
+368,Ledgewood,07852
+369,Leeds Point,08220
+370,Leesburg,08327
+371,Leonardo,07737
+372,Leonia,07605
+373,Liberty Corner,07938
+374,Lincoln Park,07035
+375,Lincroft,07738
+376,Linden,07036
+377,Linwood,08221
+378,Linwood,08222
+379,Linwood,08227
+380,Little Falls,07424
+381,Little Ferry,07643
+382,Little Silver,07739
+383,Little York,08834
+384,Livingston,07039
+385,Lodi,07644
+386,Long Beach,08008
+387,Long Branch,07740
+388,Long Valley,07853
+389,Longport,08403
+390,Lumberton,08048
+391,Lyndhurst,07071
+392,Lyons,07939
+393,Madison,07940
+394,Magnolia,08049
+395,Mahwah,07430
+396,Mahwah,07495
+397,Mahwah,07498
+398,Malaga,08328
+399,Manahawkin,08050
+400,Manasquan,08736
+401,Manchester Township,08759
+402,Mantoloking,08738
+403,Mantua,08051
+404,Manville,08835
+405,Maple Shade,08052
+406,Maplewood,07040
+407,Margate City,08402
+408,Marlboro,07746
+409,Marlton,08053
+410,Marmora,08223
+411,Martinsville,08836
+412,Matawan,07747
+413,Mauricetown,08329
+414,Mays Landing,08330
+415,Maywood,07607
+416,McAfee,07428
+417,McGuire A F B,08641
+418,Medford,08055
+419,Mendham,07945
+420,Mercerville,08619
+421,Merchantville,08109
+422,Metuchen,08840
+423,Mickleton,08056
+424,Middlebush,08875
+425,Middlesex,08846
+426,Middletown,07748
+427,Middleville,07855
+428,Midland Park,07432
+429,Milford,08848
+430,Millburn,07041
+431,Millington,07946
+432,Milltown,08850
+433,Millville,08332
+434,Milmay,08340
+435,Mine Hill,07803
+436,Minotola,08341
+437,Mizpah,08342
+438,Monmouth Beach,07750
+439,Monmouth Junction,08852
+440,Monroeville,08343
+441,Montague,07827
+442,Montclair,07042
+443,Montclair,07043
+444,Montclair,07044
+445,Montvale,07645
+446,Montville,07045
+447,Moonachie,07074
+448,Moorestown,08057
+449,Morgan,08879
+450,Morganville,07751
+451,Morris Plains,07950
+452,Morristown,07960
+453,Morristown,07961
+454,Morristown,07962
+455,Morristown,07964
+456,Mount Arlington,07856
+457,Mount Ephraim,08059
+458,Mount Freedom,07970
+459,Mount Holly,08060
+460,Mount Laurel,08054
+461,Mount Olive Township,07828
+462,Mount Royal,08061
+463,Mount Tabor,07878
+464,Mountain Lakes,07046
+465,Mountainside,07092
+466,Mullica Hill,08062
+467,National Park,08063
+468,Navesink,07752
+469,Neptune,07753
+470,Neptune,07754
+471,Neshanic Station,08853
+472,Netcong,07857
+473,New Brunswick,08899
+474,New Brunswick,08901
+475,New Brunswick,08902
+476,New Brunswick,08903
+477,New Brunswick,08904
+478,New Brunswick,08905
+479,New Brunswick,08906
+480,New Brunswick,08922
+481,New Brunswick,08933
+482,New Brunswick,08988
+483,New Brunswick,08989
+484,New Egypt,08533
+485,New Gretna,08224
+486,New Lisbon,08064
+487,New Milford,07646
+488,New Monmouth,07748
+489,New Providence,07974
+490,New Vernon,07976
+491,Newark,07100
+492,Newark,07101
+493,Newark,07102
+494,Newark,07103
+495,Newark,07104
+496,Newark,07105
+497,Newark,07106
+498,Newark,07107
+499,Newark,07108
+500,Newark,07109
+501,Newark,07110
+502,Newark,07111
+503,Newark,07112
+504,Newark,07114
+505,Newark,07175
+506,Newark,07183
+507,Newark,07184
+508,Newark,07185
+509,Newark,07187
+510,Newark,07188
+511,Newark,07189
+512,Newark,07190
+513,Newark,07191
+514,Newark,07192
+515,Newark,07193
+516,Newark,07194
+517,Newark,07195
+518,Newark,07197
+519,Newark,07198
+520,Newark,07199
+521,Newfield,08344
+522,Newfoundland,07435
+523,Newport,08345
+524,Newton,07860
+525,Newtonville,08346
+526,Norma,08347
+527,Normandy Beach,08739
+528,North Arlington,07031
+529,North Bergen,07047
+530,North Branch,08876
+531,North Brunswick,08902
+532,North Cape May,08204
+533,North Jersey Facility,07099
+534,North Middletown,07047
+535,North Plainfield,07060
+536,North Wildwood,08260
+537,Northfield,08225
+538,Northvale,07647
+539,Norwood,07648
+540,Nutley,07110
+541,Oak Ridge,07438
+542,Oakhurst,07755
+543,Oakland,07436
+544,Ocean,07712
+545,Ocean City,08226
+546,Ocean Gate,08740
+547,Ocean Grove,07756
+548,Ocean View,08230
+549,Oceanport,07757
+550,Oceanville,08231
+551,Ogdensburg,07439
+552,Old Bridge,08857
+553,Old Tappan,07675
+554,Oldwick,08858
+555,Oradell,07649
+556,Orange,07050
+557,Orange,07051
+558,Orange,07052
+559,Osbornsville,08723
+560,Oxford,07863
+561,Packanack Lake,07470
+562,Palisades Park,07650
+563,Palmyra,08065
+564,Paramus,07652
+565,Paramus,07653
+566,Park Ridge,07656
+567,Parlin,08859
+568,Parsippany,07054
+569,Passaic,07055
+570,Passaic,07057
+571,Paterson,07500
+572,Paterson,07501
+573,Paterson,07502
+574,Paterson,07503
+575,Paterson,07504
+576,Paterson,07505
+577,Paterson,07506
+578,Paterson,07507
+579,Paterson,07508
+580,Paterson,07509
+581,Paterson,07510
+582,Paterson,07511
+583,Paterson,07512
+584,Paterson,07513
+585,Paterson,07514
+586,Paterson,07522
+587,Paterson,07524
+588,Paterson,07530
+589,Paterson,07533
+590,Paterson,07538
+591,Paterson,07543
+592,Paterson,07544
+593,Paulsboro,08066
+594,Peapack,07977
+595,Pedricktown,08067
+596,Pemberton,08068
+597,Pennington,08534
+598,Penns Grove,08069
+599,Pennsville,08070
+600,Pequannock,07440
+601,Perrineville,08535
+602,Perrineville,08861
+603,Perrineville,08863
+604,Perth Amboy,08862
+605,Phillipsburg,08865
+606,Picatinny Arsenal,07806
+607,Pine Beach,08741
+608,Pine Brook,07058
+609,Pine Hill,08021
+610,Piscataway,08854
+611,Piscataway,08855
+612,Pitman,08071
+613,Pittstown,08867
+614,Plainfield,07060
+615,Plainfield,07061
+616,Plainfield,07062
+617,Plainfield,07063
+618,Plainsboro,08536
+619,Pleasantville,08232
+620,Pleasantville,08233
+621,Pluckemin,07978
+622,Point Pleasant,08742
+623,Pomona,08240
+624,Pompton Lakes,07442
+625,Pompton Plains,07444
+626,Port Elizabeth,08348
+627,Port Monmouth,07758
+628,Port Murray,07865
+629,Port Norris,08349
+630,Port Reading,07064
+631,Port Republic,08241
+632,Pottersville,07979
+633,Princeton,08540
+634,Princeton,08541
+635,Princeton,08542
+636,Princeton,08543
+637,Princeton,08544
+638,Princeton Junction,08550
+639,Prospect Park,07508
+640,Quakertown,08868
+641,Quinton,08072
+642,Rahway,07065
+643,Rahway,07066
+644,Rahway,07067
+645,Ramsey,07446
+646,Rancocas,08073
+647,Randolph,07869
+648,Raritan,08869
+649,Readington,08870
+650,Red Bank,07701
+651,Red Bank,07703
+652,Red Bank,07799
+653,Richland,08350
+654,Richwood,08074
+655,Ridgefield,07657
+656,Ridgefield Park,07660
+657,Ridgewood,07450
+658,Ridgewood,07451
+659,Ridgewood,07452
+660,Ringoes,08551
+661,Ringwood,07456
+662,Rio Grande,08242
+663,River Edge,07661
+664,Riverdale,07457
+665,Riverside,08075
+666,Riverside,08370
+667,Riverton,08077
+668,Rochelle Park,07662
+669,Rockaway,07866
+670,Rockleigh,07647
+671,Rocky Hill,08553
+672,Roebling,08554
+673,Roosevelt,08555
+674,Roseland,07068
+675,Roselle,07203
+676,Roselle Park,07204
+677,Rosemont,08556
+678,Rosenhayn,08352
+679,Rumson,07760
+680,Runnemede,08078
+681,Rutherford,07070
+682,Rutherford,07071
+683,Rutherford,07072
+684,Rutherford,07073
+685,Rutherford,07074
+686,Rutherford,07075
+687,Saddle Brook,07663
+688,Saddle River,07458
+689,Salem,08079
+690,Sayreville,08871
+691,Sayreville,08872
+692,Schooleys Mountain,07870
+693,Scotch Plains,07076
+694,Sea Bright,07760
+695,Sea Girt,08750
+696,Sea Isle City,08243
+697,Seabrook,08302
+698,Seaside Heights,08751
+699,Seaside Park,08752
+700,Secaucus,07094
+701,Secaucus,07096
+702,Sergeantsville,08557
+703,Sewaren,07077
+704,Sewell,08080
+705,Shiloh,08353
+706,Ship Bottom,08008
+707,Shore Acres,08723
+708,Short Hills,07078
+709,Shrewsbury,07702
+710,Sicklerville,08081
+711,Skillman,08558
+712,Somerdale,08083
+713,Somers Point,08244
+714,Somerset,08873
+715,Somerset,08875
+716,Somerset,08890
+717,Somerville,08876
+718,Somerville,08877
+719,South Amboy,08878
+720,South Amboy,08879
+721,South Bound Brook,08880
+722,South Branch,08876
+723,South Hackensack,07606
+724,South Dennis,08245
+725,South Jersey Facility,08031
+726,South Orange,07079
+727,South Plainfield,07080
+728,South River,08882
+729,South Seaville,08246
+730,South Vineland,08360
+731,Sparta,07871
+732,Spotswood,08884
+733,Spring Lake,07762
+734,Springfield,07081
+735,Stanhope,07874
+736,Stanton,08885
+737,Stewartsville,08886
+738,Stillwater,07875
+739,Stirling,07980
+740,Stockholm,07460
+741,Stockton,08559
+742,Stone Harbor,08247
+743,Stratford,08084
+744,Strathmere,08248
+745,Suburan,07701
+746,Succasunna,07876
+747,Summit,07901
+748,Summit,07902
+749,Summit,07999
+750,Sussex,07461
+751,Surf City,08008
+752,Swartswood,07877
+753,Swedesboro,08085
+754,Teaneck,07666
+755,Teaneck,07688
+756,Tenafly,07670
+757,Teterboro,07608
+758,Tennent,07763
+759,Thorofare,08086
+760,Three Bridges,08887
+761,Tinton Falls,07724
+762,Titusville,08560
+763,Toms River,08753
+764,Toms River,08754
+765,Toms River,08755
+766,Toms River,08756
+767,Toms River,08757
+768,Totowa,07512
+769,Towaco,07082
+770,Town Center,07052
+771,Townsend's Inlet,08243
+772,Tranquility,07879
+773,Trenton,08600
+774,Trenton,08601
+775,Trenton,08602
+776,Trenton,08603
+777,Trenton,08604
+778,Trenton,08605
+779,Trenton,08606
+780,Trenton,08607
+781,Trenton,08608
+782,Trenton,08609
+783,Trenton,08610
+784,Trenton,08611
+785,Trenton,08618
+786,Trenton,08619
+787,Trenton,08620
+788,Trenton,08625
+789,Trenton,08628
+790,Trenton,08629
+791,Trenton,08638
+792,Trenton,08640
+793,Trenton,08641
+794,Trenton,08645
+795,Trenton,08646
+796,Trenton,08647
+797,Trenton,08648
+798,Trenton,08650
+799,Trenton,08666
+800,Trenton,08677
+801,Trenton,08690
+802,Trenton,08691
+803,Trenton,08695
+804,Tuckahoe,08250
+805,Tuckerton,08087
+806,Turnersville,08012
+807,Twp of Washington,07676
+808,Union,07083
+809,Union Beach,07735
+810,Union City,07087
+811,Upper Montclair,07043
+812,Vauxhall,07088
+813,Ventnor City,08406
+814,Vernon,07462
+815,Verona,07044
+816,Vienna,07880
+817,Villas,08251
+818,Vincentown,08088
+819,Vineland,08360
+820,Voorhees,08043
+821,Waldwick,07463
+822,Wall,07719
+823,Wallington,07057
+824,Wallpack Center,07881
+825,Wanaque,07465
+826,Waretown,08758
+827,Warren,07059
+828,Washington,07882
+829,Watchung,07060
+830,Waterford Works,08089
+831,Wayne,07470
+832,Wayne,07474
+833,Wayne,07477
+834,Weehawken,07086
+835,Wenonah,08090
+836,West Berlin,08091
+837,West Caldwell,07006
+838,West Caldwell,07007
+839,West Creek,08092
+840,West End,07740
+841,West Englewood,07666
+842,West Long Branch,07764
+843,West Milford,07480
+844,West New York,07093
+845,West Orange,07052
+846,West Paterson,07424
+847,West Trenton,08628
+848,Westfield,07090
+849,Westfield,07091
+850,Westfield,07092
+851,Westville,08093
+852,Westwood,07675
+853,Wharton,07885
+854,Whippany,07981
+855,White House Station,08889
+856,Whitehouse,08888
+857,Whitesboro,08252
+858,Whiting,08759
+859,Wickatunk,07765
+860,Wildwood,08260
+861,Williamstown,08094
+862,Willingboro,08046
+863,Windsor,08561
+864,Winslow,08095
+865,Wood Ridge,07075
+866,Woodbine,08270
+867,Woodbridge,07095
+868,Woodbury,08096
+869,Woodbury Heights,08097
+870,Woodstown,08098
+871,Wrightstown,08562
+872,Wyckoff,07481
+873,Yardville,08620
+874,Zarephath,08890
