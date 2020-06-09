@@ -1,43 +1,43 @@
 ID Gender,Gender,ID Year,Year,ID Employment Time Status,Employment Time Status,ID Detailed Occupation,Detailed Occupation,Average Wage,Average Wage Appx MOE,Total Population,Total Population MOE Appx,Record Count,Geography,ID Geography,Slug Geography
-1,"Male",2018,"2018",1,"Full-time","533030","Driver/sales workers & truck drivers",53894.578303209426,4662.225597970596,79173,6829.999193392531,639,"New Jersey","04000US34","new-jersey"
-2,"Female",2018,"2018",1,"Full-time","533030","Driver/sales workers & truck drivers",47931.976408281174,21800.029358053984,4154,1581.4353925914959,31,"New Jersey","04000US34","new-jersey"
-2,"Female",2018,"2018",1,"Full-time","412031","Retail salespersons",43984.466021524044,8839.10861060554,23044,3714.7249119393773,207,"New Jersey","04000US34","new-jersey"
-2,"Female",2018,"2018",1,"Full-time","1191XX","Other managers",104982.01686879035,9984.577737034648,41971,4999.691939238706,449,"New Jersey","04000US34","new-jersey"
-2,"Female",2018,"2018",1,"Full-time","252020","Elementary & middle school teachers",63685.35471395453,2539.2770053188,91017,7310.451259665265,993,"New Jersey","04000US34","new-jersey"
-1,"Male",2018,"2018",1,"Full-time","291141","Registered nurses",93142.65300021354,16001.13778859612,9366,2372.864630000913,91,"New Jersey","04000US34","new-jersey"
-1,"Male",2018,"2018",1,"Full-time","412031","Retail salespersons",57751.08033173921,8571.479136898528,33038,4441.531829424527,311,"New Jersey","04000US34","new-jersey"
-1,"Male",2018,"2018",1,"Full-time","1191XX","Other managers",141067.87573659304,10934.259289273408,77553,6761.353972528987,793,"New Jersey","04000US34","new-jersey"
-1,"Male",2018,"2018",1,"Full-time","252020","Elementary & middle school teachers",71098.62288745737,4379.10623430897,26390,3973.373877524615,272,"New Jersey","04000US34","new-jersey"
-2,"Female",2018,"2018",1,"Full-time","291141","Registered nurses",80328.95559355932,3789.0727055905413,68999,6385.501091582872,723,"New Jersey","04000US34","new-jersey"
-1,"Male",2017,"2017",1,"Full-time","252020","Elementary & middle school teachers",66444.37315728753,3791.793211126457,23403,3743.2711433662753,243,"New Jersey","04000US34","new-jersey"
-1,"Male",2017,"2017",1,"Full-time","291141","Registered nurses",85334.07352941176,11392.199448316936,7684,2149.7620875954954,71,"New Jersey","04000US34","new-jersey"
-1,"Male",2017,"2017",1,"Full-time","533030","Driver/sales workers & truck drivers",47001.82532762526,2693.586232891559,76383,6710.791587576129,609,"New Jersey","04000US34","new-jersey"
-2,"Female",2017,"2017",1,"Full-time","533030","Driver/sales workers & truck drivers",32687.162800687285,6289.9721131618235,2328,1184.19037848642,20,"New Jersey","04000US34","new-jersey"
-2,"Female",2017,"2017",1,"Full-time","291141","Registered nurses",80239.27852553163,3891.6157883700735,67387,6311.524076826146,683,"New Jersey","04000US34","new-jersey"
-2,"Female",2017,"2017",1,"Full-time","412031","Retail salespersons",39624.50523499839,6715.2501951457725,21681,3603.818254742983,189,"New Jersey","04000US34","new-jersey"
-2,"Female",2017,"2017",1,"Full-time","252020","Elementary & middle school teachers",62513.64412384621,1949.319092713301,82554,6970.3091978031,919,"New Jersey","04000US34","new-jersey"
-1,"Male",2017,"2017",1,"Full-time","412031","Retail salespersons",66554.47891277994,9924.959119783762,31346,4327.221042804374,289,"New Jersey","04000US34","new-jersey"
-1,"Male",2016,"2016",1,"Full-time","252020","Elementary & middle school teachers",68414.26348122867,4184.968457158016,23440,3745.961465453896,249,"New Jersey","04000US34","new-jersey"
-2,"Female",2016,"2016",1,"Full-time","252020","Elementary & middle school teachers",60672.67191679404,1895.5693979945363,83744,7017.456031236871,909,"New Jersey","04000US34","new-jersey"
-2,"Female",2016,"2016",1,"Full-time","412031","Retail salespersons",35353.47995030417,5784.5070788379935,23342,3738.176354913466,185,"New Jersey","04000US34","new-jersey"
-2,"Female",2016,"2016",1,"Full-time","291141","Registered nurses",80174.8158884873,3365.31187012733,67508,6315.858552881889,661,"New Jersey","04000US34","new-jersey"
-2,"Female",2016,"2016",1,"Full-time","533030","Driver/sales workers & truck drivers",74359.51549833095,71138.60607718317,2097,1123.9346687442805,23,"New Jersey","04000US34","new-jersey"
-1,"Male",2016,"2016",1,"Full-time","412031","Retail salespersons",58604.99922478008,9342.92319342698,29669,4210.543957551681,279,"New Jersey","04000US34","new-jersey"
-1,"Male",2016,"2016",1,"Full-time","291141","Registered nurses",79684.83023817018,8045.187532888722,9531,2393.5321729439174,92,"New Jersey","04000US34","new-jersey"
-1,"Male",2016,"2016",1,"Full-time","533030","Driver/sales workers & truck drivers",47818.9241986936,2553.752111456407,78996,6820.458159360402,648,"New Jersey","04000US34","new-jersey"
-2,"Female",2015,"2015",1,"Full-time","412031","Retail salespersons",40819.97883623391,7397.260835091481,20743,3525.0593975356187,182,"New Jersey","04000US34","new-jersey"
-2,"Female",2015,"2015",1,"Full-time","291141","Registered nurses",77067.89329626688,2975.474221786836,62950,6101.935861334438,654,"New Jersey","04000US34","new-jersey"
-1,"Male",2015,"2015",1,"Full-time","252020","Elementary & middle school teachers",63608.11116179355,4044.909873075405,21923,3623.297007637312,222,"New Jersey","04000US34","new-jersey"
-2,"Female",2015,"2015",1,"Full-time","252020","Elementary & middle school teachers",59547.40488142845,2191.129162271578,82271,6955.326270517296,886,"New Jersey","04000US34","new-jersey"
-1,"Male",2015,"2015",1,"Full-time","533030","Driver/sales workers & truck drivers",46482.220799605646,2650.572318714453,77088,6737.991325918991,638,"New Jersey","04000US34","new-jersey"
-1,"Male",2015,"2015",1,"Full-time","291141","Registered nurses",87457.59703352861,8194.780521691737,8023,2196.4648988230238,86,"New Jersey","04000US34","new-jersey"
-1,"Male",2015,"2015",1,"Full-time","412031","Retail salespersons",54085.5761005083,6722.754148780694,31281,4322.001657527015,293,"New Jersey","04000US34","new-jersey"
-2,"Female",2015,"2015",1,"Full-time","533030","Driver/sales workers & truck drivers",44704.69383189517,15052.4872160053,3129,1372.699007370497,27,"New Jersey","04000US34","new-jersey"
-1,"Male",2014,"2014",1,"Full-time","291141","Registered nurses",88836.72946694121,17136.253840187415,8742,2292.515654858257,91,"New Jersey","04000US34","new-jersey"
-1,"Male",2014,"2014",1,"Full-time","412031","Retail salespersons",52475.33899854954,6823.267164716854,31714,4351.441229795779,286,"New Jersey","04000US34","new-jersey"
-2,"Female",2014,"2014",1,"Full-time","412031","Retail salespersons",41430.83902330744,7161.5128515116485,22525,3672.3239592205396,198,"New Jersey","04000US34","new-jersey"
-2,"Female",2014,"2014",1,"Full-time","291141","Registered nurses",77239.03028294523,2907.89732113606,67893,6331.952509296765,694,"New Jersey","04000US34","new-jersey"
-2,"Female",2014,"2014",1,"Full-time","533030","Driver/sales workers & truck drivers",24297.180600914435,4214.461591718192,3062,1357.9338799827651,22,"New Jersey","04000US34","new-jersey"
-1,"Male",2014,"2014",1,"Full-time","533030","Driver/sales workers & truck drivers",46006.873355558404,2567.531677462239,77990,6776.025141992304,636,"New Jersey","04000US34","new-jersey"
-1,"Male",2014,"2014",1,"Full-time","252020","Elementary & middle school teachers",61993.599973702665,4680.6584933898075,22816,3695.80742810278,243,"New Jersey","04000US34","new-jersey"
-2,"Female",2014,"2014",1,"Full-time","252020","Elementary & middle school teachers",61696.80245866893,2011.3248954155645,82565,6967.058557960041,924,"New Jersey","04000US34","new-jersey"
+1,Male,2018,2018,1,Full-time,533030,Driver/sales workers & truck drivers,53894.5783,4662.225598,79173,6829.999193,639,New Jersey,04000US34,new-jersey
+2,Female,2018,2018,1,Full-time,533030,Driver/sales workers & truck drivers,47931.97641,21800.02936,4154,1581.435393,31,New Jersey,04000US34,new-jersey
+2,Female,2018,2018,1,Full-time,412031,Retail salespersons,43984.46602,8839.108611,23044,3714.724912,207,New Jersey,04000US34,new-jersey
+2,Female,2018,2018,1,Full-time,1191XX,Other managers,104982.0169,9984.577737,41971,4999.691939,449,New Jersey,04000US34,new-jersey
+2,Female,2018,2018,1,Full-time,252020,Elementary & middle school teachers,63685.35471,2539.277005,91017,7310.45126,993,New Jersey,04000US34,new-jersey
+1,Male,2018,2018,1,Full-time,291141,Registered nurses,93142.653,16001.13779,9366,2372.86463,91,New Jersey,04000US34,new-jersey
+1,Male,2018,2018,1,Full-time,412031,Retail salespersons,57751.08033,8571.479137,33038,4441.531829,311,New Jersey,04000US34,new-jersey
+1,Male,2018,2018,1,Full-time,1191XX,Other managers,141067.8757,10934.25929,77553,6761.353973,793,New Jersey,04000US34,new-jersey
+1,Male,2018,2018,1,Full-time,252020,Elementary & middle school teachers,71098.62289,4379.106234,26390,3973.373878,272,New Jersey,04000US34,new-jersey
+2,Female,2018,2018,1,Full-time,291141,Registered nurses,80328.95559,3789.072706,68999,6385.501092,723,New Jersey,04000US34,new-jersey
+1,Male,2017,2017,1,Full-time,252020,Elementary & middle school teachers,66444.37316,3791.793211,23403,3743.271143,243,New Jersey,04000US34,new-jersey
+1,Male,2017,2017,1,Full-time,291141,Registered nurses,85334.07353,11392.19945,7684,2149.762088,71,New Jersey,04000US34,new-jersey
+1,Male,2017,2017,1,Full-time,533030,Driver/sales workers & truck drivers,47001.82533,2693.586233,76383,6710.791588,609,New Jersey,04000US34,new-jersey
+2,Female,2017,2017,1,Full-time,533030,Driver/sales workers & truck drivers,32687.1628,6289.972113,2328,1184.190378,20,New Jersey,04000US34,new-jersey
+2,Female,2017,2017,1,Full-time,291141,Registered nurses,80239.27853,3891.615788,67387,6311.524077,683,New Jersey,04000US34,new-jersey
+2,Female,2017,2017,1,Full-time,412031,Retail salespersons,39624.50523,6715.250195,21681,3603.818255,189,New Jersey,04000US34,new-jersey
+2,Female,2017,2017,1,Full-time,252020,Elementary & middle school teachers,62513.64412,1949.319093,82554,6970.309198,919,New Jersey,04000US34,new-jersey
+1,Male,2017,2017,1,Full-time,412031,Retail salespersons,66554.47891,9924.95912,31346,4327.221043,289,New Jersey,04000US34,new-jersey
+1,Male,2016,2016,1,Full-time,252020,Elementary & middle school teachers,68414.26348,4184.968457,23440,3745.961465,249,New Jersey,04000US34,new-jersey
+2,Female,2016,2016,1,Full-time,252020,Elementary & middle school teachers,60672.67192,1895.569398,83744,7017.456031,909,New Jersey,04000US34,new-jersey
+2,Female,2016,2016,1,Full-time,412031,Retail salespersons,35353.47995,5784.507079,23342,3738.176355,185,New Jersey,04000US34,new-jersey
+2,Female,2016,2016,1,Full-time,291141,Registered nurses,80174.81589,3365.31187,67508,6315.858553,661,New Jersey,04000US34,new-jersey
+2,Female,2016,2016,1,Full-time,533030,Driver/sales workers & truck drivers,74359.5155,71138.60608,2097,1123.934669,23,New Jersey,04000US34,new-jersey
+1,Male,2016,2016,1,Full-time,412031,Retail salespersons,58604.99922,9342.923193,29669,4210.543958,279,New Jersey,04000US34,new-jersey
+1,Male,2016,2016,1,Full-time,291141,Registered nurses,79684.83024,8045.187533,9531,2393.532173,92,New Jersey,04000US34,new-jersey
+1,Male,2016,2016,1,Full-time,533030,Driver/sales workers & truck drivers,47818.9242,2553.752111,78996,6820.458159,648,New Jersey,04000US34,new-jersey
+2,Female,2015,2015,1,Full-time,412031,Retail salespersons,40819.97884,7397.260835,20743,3525.059398,182,New Jersey,04000US34,new-jersey
+2,Female,2015,2015,1,Full-time,291141,Registered nurses,77067.8933,2975.474222,62950,6101.935861,654,New Jersey,04000US34,new-jersey
+1,Male,2015,2015,1,Full-time,252020,Elementary & middle school teachers,63608.11116,4044.909873,21923,3623.297008,222,New Jersey,04000US34,new-jersey
+2,Female,2015,2015,1,Full-time,252020,Elementary & middle school teachers,59547.40488,2191.129162,82271,6955.326271,886,New Jersey,04000US34,new-jersey
+1,Male,2015,2015,1,Full-time,533030,Driver/sales workers & truck drivers,46482.2208,2650.572319,77088,6737.991326,638,New Jersey,04000US34,new-jersey
+1,Male,2015,2015,1,Full-time,291141,Registered nurses,87457.59703,8194.780522,8023,2196.464899,86,New Jersey,04000US34,new-jersey
+1,Male,2015,2015,1,Full-time,412031,Retail salespersons,54085.5761,6722.754149,31281,4322.001658,293,New Jersey,04000US34,new-jersey
+2,Female,2015,2015,1,Full-time,533030,Driver/sales workers & truck drivers,44704.69383,15052.48722,3129,1372.699007,27,New Jersey,04000US34,new-jersey
+1,Male,2014,2014,1,Full-time,291141,Registered nurses,88836.72947,17136.25384,8742,2292.515655,91,New Jersey,04000US34,new-jersey
+1,Male,2014,2014,1,Full-time,412031,Retail salespersons,52475.339,6823.267165,31714,4351.44123,286,New Jersey,04000US34,new-jersey
+2,Female,2014,2014,1,Full-time,412031,Retail salespersons,41430.83902,7161.512852,22525,3672.323959,198,New Jersey,04000US34,new-jersey
+2,Female,2014,2014,1,Full-time,291141,Registered nurses,77239.03028,2907.897321,67893,6331.952509,694,New Jersey,04000US34,new-jersey
+2,Female,2014,2014,1,Full-time,533030,Driver/sales workers & truck drivers,24297.1806,4214.461592,3062,1357.93388,22,New Jersey,04000US34,new-jersey
+1,Male,2014,2014,1,Full-time,533030,Driver/sales workers & truck drivers,46006.87336,2567.531677,77990,6776.025142,636,New Jersey,04000US34,new-jersey
+1,Male,2014,2014,1,Full-time,252020,Elementary & middle school teachers,61993.59997,4680.658493,22816,3695.807428,243,New Jersey,04000US34,new-jersey
+2,Female,2014,2014,1,Full-time,252020,Elementary & middle school teachers,61696.80246,2011.324895,82565,6967.058558,924,New Jersey,04000US34,new-jersey
