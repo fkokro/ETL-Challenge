@@ -1,4 +1,4 @@
-﻿![](ETL.png)
+![](ETL.png)
 # ETL: Extract, Transform, Load Project<br/>
 <br/>
 Extract:<br/>
